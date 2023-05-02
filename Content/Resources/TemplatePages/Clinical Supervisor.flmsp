@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/Clinical Supervisor.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <table class="table_1">
+                <col class="col_1" />
+                <col class="col_2" />
+                <tbody>
+                    <tr class="tr_1">
+                        <td class="td_1">
+                            <p class="p_2">
+                                <img src="../Images/Clinical Supervisor/Clinical Supervisor.png" class="img_12" />
+                            </p>
+                        </td>
+                        <td class="td_2">
+                            <p class="p_3"><span class="span_1">Clinical Supervisor</span>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="p_4">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="p_5">Intrahealth Canada Ltd.&#160;&#160;&#160;&#160;Page 2</p>
+        </div>
+    </body>
+</html>

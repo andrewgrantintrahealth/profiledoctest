@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  LastImport="2023-04-26T16:16:54.0376843-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Clinical Supervisor.docx"
+      AbsoluteSource="file:///C:/Users/andrew.grant/Desktop/Clinical Supervisor.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor.png"
+      TimeStamp="4/26/2023 4:16:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_1.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_2.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_3.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_4.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_5.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_6.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_7.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_8.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_9.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_10.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Clinical Supervisor/Clinical Supervisor_11.png"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Clinical Supervisor.htm"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../TOCs/Clinical Supervisor.fltoc"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/Clinical Supervisor.flmsp"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Clinical Supervisor.css"
+      TimeStamp="4/26/2023 4:16:25 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Body Text"
+      To="p.BodyText"
+      Style="Word" />
+    <Map
+      From="Heading 1"
+      To="h1.Heading1"
+      Style="Word" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading2"
+      Style="Word" />
+    <Map
+      From="List Number"
+      To="p.ListNumber"
+      Style="Word" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Command"
+      To="span.Command"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>
