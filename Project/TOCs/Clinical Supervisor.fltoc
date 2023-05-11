@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-    <TocEntry Title="Clinical Supervisor" Link="/Content/Clinical Supervisor.htm" />
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Clinical Supervisor"
+    Link="/Content/Encounters/Clinical Supervisor.htm" />
 </CatapultToc>
