@@ -16,4 +16,10 @@
   <PDF
     Tagged="true"
     TitleBar="DocumentTitle" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/FTP British Columbia.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>

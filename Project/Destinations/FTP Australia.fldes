@@ -5,7 +5,7 @@
   Host="ftpupload.net"
   User="MyAccountId"
   Password=""
-  Directory="htdocs/bc"
+  Directory="htdocs/au"
   Port="21"
-  ViewUrl="http://profiledoctest.rf.gd/bc"
+  ViewUrl="http://profiledoctest.rf.gd/au"
   Type="ftp"></CatapultDestination>
