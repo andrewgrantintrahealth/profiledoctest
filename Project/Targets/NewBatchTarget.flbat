@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Australia"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2023-05-17T16:49:12.8984052-07:00"
+      LastPublished="2023-05-17T16:49:45.7967717-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="British Columbia"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2023-05-17T16:49:20.7641894-07:00"
+      LastPublished="2023-05-17T16:49:48.0082582-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2023-05-12T17:12:16.9318355-07:00"
+      LastPublished="2023-05-17T16:49:50.1703441-07:00" />
+  </Targets>
+</CatapultBatchTarget>
