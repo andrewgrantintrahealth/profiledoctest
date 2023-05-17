@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftpupload.net"
+  User="MyAccountId"
+  Password=""
+  Directory="htdocs"
+  Port="21"
+  ViewUrl="http://profiledoctest.rf.gd/"
+  Type="ftp"></CatapultDestination>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet>
   <ConditionTag
     Comment=""
-    Name="ScreenOnly"
+    Name="British Columbia"
     BackgroundColor="Blue" />
   <ConditionTag
     Comment=""
-    Name="PrintOnly"
+    Name="New Zealand"
     BackgroundColor="Red" />
   <ConditionTag
     BackgroundColor="#008000"
-    Name="Web"
+    Name="Ontario"
     Comment="" />
   <ConditionTag
     BackgroundColor="#ffa500"
-    Name="Tablet"
+    Name="New Brunswick"
     Comment="" />
   <ConditionTag
     BackgroundColor="#8b008b"
-    Name="Mobile"
+    Name="Australia"
     Comment="" />
 </CatapultConditionTagSet>
